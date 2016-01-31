@@ -1,4 +1,19 @@
-analytics: {}
+name: Corley Dubrosa Customs
+favicon: null
+layout_spectrum: 0.960813
+typography_spectrum: 0.31165353904106174
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -8,11 +23,9 @@ color:
     - '#160600'
   brandStrength: 0.7873266100695211
   lightness: 0.7801699162848067
-  rhythmicContrast: 0.3958729506554026
   saturation: 0.9550254554496336
-cta: {}
-layout_spectrum: 0.960813
-name: Corley Dubrosa Customs
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.31165353904106174
+  rhythmicContrast: 0.3958729506554026
+purpose:
+  - name: null
+    item: null
+    url: null
