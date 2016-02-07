@@ -4,21 +4,21 @@
         <description><![CDATA[Corley Dubrosa Customs]]></description>
         <link>http://corleydubrosacustoms.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 16:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 16:22:46 GMT</lastBuildDate>
         <atom:link href="http://corleydubrosacustoms.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[About Us]]></title>
-            <description><![CDATA[<article><h1>About Us</h1><p>How it all began</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40ed3b5063b3967e922aebff908e61529c811a22.jpg"></article>]]></description>
-            <link>http://corleydubrosacustoms.com/about-us/index.html</link>
-            <guid isPermaLink="false">5d07c784-a012-4b2e-b358-f10587f53ee6</guid>
-            <pubDate>Sun, 07 Feb 2016 16:21:22 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Services]]></title>
             <description><![CDATA[<article><h1>Services</h1><p>See the services that we offer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52164c932153e2af1fee1292b88a42a22c33eebc.jpg"></article>]]></description>
             <link>http://corleydubrosacustoms.com/services/index.html</link>
             <guid isPermaLink="false">c142d414-0d7e-46b1-b6dc-5f91b426457a</guid>
-            <pubDate>Sun, 07 Feb 2016 16:05:30 GMT</pubDate>
+            <pubDate>Sun, 07 Feb 2016 16:22:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<article><h1>About Us</h1><p>How it all began</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9f765f111ef7ca970aad1fb27542658b51ea1da.jpg"></article>]]></description>
+            <link>http://corleydubrosacustoms.com/about-us/index.html</link>
+            <guid isPermaLink="false">5d07c784-a012-4b2e-b358-f10587f53ee6</guid>
+            <pubDate>Sun, 07 Feb 2016 16:21:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
