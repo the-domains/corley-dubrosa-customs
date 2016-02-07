@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Corley Dubrosa Customs]]></title>
         <description><![CDATA[Corley Dubrosa Customs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://corleydubrosacustoms.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 23:49:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Feb 2016 15:58:53 GMT</lastBuildDate>
+        <atom:link href="http://corleydubrosacustoms.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Test</p>]]></description>
-            <link>undefined27171aa1-ae37-4ca1-9cd6-2ba70ecd7d75/index.html</link>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<article><h1>About Us</h1><p>Corley Dubrosa Customs was founded by blah</p></article>]]></description>
+            <link>http://corleydubrosacustoms.com/27171aa1-ae37-4ca1-9cd6-2ba70ecd7d75/index.html</link>
             <guid isPermaLink="false">27171aa1-ae37-4ca1-9cd6-2ba70ecd7d75</guid>
-            <pubDate>Sun, 31 Jan 2016 23:49:00 GMT</pubDate>
+            <pubDate>Sun, 07 Feb 2016 15:58:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
